@@ -8,6 +8,7 @@ networkx = "==2.2"
 jupyter = "*"
 matplotlib = "*"
 tqdm = "*"
+pylint = "*"
 
 [dev-packages]
 
