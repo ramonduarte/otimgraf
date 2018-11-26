@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/home/ramon/.local/share/virtualenvs/otimgraf-s98R5NnN/bin/python"
+    "python.pythonPath": "/home/ramon/.local/share/virtualenvs/otimgraf-s98R5NnN/bin/python",
+    "python.linting.pylintEnabled": true
 }
