@@ -9,6 +9,7 @@ jupyter = "*"
 matplotlib = "*"
 tqdm = "*"
 pylint = "*"
+cd = "*"
 
 [dev-packages]
 pylint = "*"
